@@ -1,1 +1,15 @@
 theme: jekyll-theme-leap-day
+
+lang: en-US
+
+collections:
+- WorldOfLight
+sass:
+  style: compressed
+
+exclude:
+- Gemfile
+- LICENSE
+- README.md
+- Rakefile
+- vendor

@@ -1,0 +1,40 @@
+---
+- name: Smoky Progg
+  type: Spirit
+  fighters:
+  - Mario
+  icon_img: ""
+  fight_img: ""
+  map:
+    name: Light
+    xPos: 1
+    yPos: 1
+  conditions:
+  - The enemy will occasionally turn metal
+- name: Eevee
+  type: Spirit
+  fighters:
+  - Yoshi
+  - Yoshi
+  - Yoshi
+  icon_img: ""
+  fight_img: ""
+  map:
+    name: Light
+    xPos: 1
+    yPos: 1
+  conditions:
+  - Only certain pokemon will emerge from the Poke Balls
+  - Reinforcements will appear during the battle
+- name: Celeste
+  type: Spirit
+  fighters:
+  - Jigglypuff
+  icon_img: ""
+  fight_img: ""
+  map:
+    name: Light
+    xPos: 1
+    yPos: 1
+  conditions:
+  - The enemy favors down specials
